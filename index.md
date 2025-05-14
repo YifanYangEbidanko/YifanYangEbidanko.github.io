@@ -23,7 +23,7 @@ My research combines natural-language processing, clinical informatics, and AI s
 
 ### Awards
 
-- **NIH Director’s Challenge** Award
+- **NIH Director’s Challenge Award**
 - **NIH Predoctoral Visiting Program Award**
 
 ---
