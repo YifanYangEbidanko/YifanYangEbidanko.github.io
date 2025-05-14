@@ -48,8 +48,10 @@ My research combines natural-language processing, clinical informatics, and AI s
 
 <p align="center">
 
-yang7832@umd.edu · yifan.yang3@nih.gov •  
-[Curriculum Vitae]({{ site.url }}/assets/CV.pdf) •  
+yang7832@umd.edu • yifan.yang3@nih.gov •  
+
+[Curriculum Vitae]({{site.url}}/assets/CV.pdf) •  
+
 [Google Scholar](https://scholar.google.com/citations?user=0oRvdTUAAAAJ&hl=en)
 
 </p>
