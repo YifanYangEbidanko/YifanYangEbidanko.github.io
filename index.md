@@ -1,13 +1,14 @@
 ## 👋 Hi, I’m **Yifan Yang**
-
+<center>
 ![Yifan Yang](../assets/head.jpg){: .align-center width="150" }
+</center>
 
 I’m a final-year Ph.D. candidate in Computer Science at **University of Maryland, College Park** and a pre-doctoral research fellow at the **National Library of Medicine (NIH)**.  
 
 
 
 
-### 🔬 Research Focus
+### Research Focus
 **Medical LLM Safety** · **Contextual-Augmented LLMs** · **Clinical Task Automation**
 
 | Theme | What I do | Representative Work |
@@ -19,7 +20,7 @@ I’m a final-year Ph.D. candidate in Computer Science at **University of Maryla
 
 
 
-### 🏆 Awards
+### Awards
 
 - **NIH Director’s Challenge** award for work on privacy-preserving medical LLMs  
 - **NIH Predoctoral Visiting Program Award** 
@@ -27,7 +28,7 @@ I’m a final-year Ph.D. candidate in Computer Science at **University of Maryla
 
 
 
-### 📝 Recent Publications
+### Recent Publications
 
 1. *MedGuard: A Safety Benchmark for Medical Large Language Models.* (Under review, 2025)  
 2. *Knowledge-guided contextual gene set analysis with large language models.* (Under review, 2025)  
@@ -38,7 +39,7 @@ I’m a final-year Ph.D. candidate in Computer Science at **University of Maryla
 
 
 
-### 💼 Experience
+### Experience
 
 - **Pre-Doctoral Fellow**, National Library of Medicine (NIH) &nbsp;│ 2022–present  
 - **Ph.D. Candidate**, UMD Department of Computer Science &nbsp;│ 2020–present  
@@ -47,11 +48,15 @@ I’m a final-year Ph.D. candidate in Computer Science at **University of Maryla
 
 
 
-### 📬 Get in Touch
+### Contact
 
 <center>
- 📧 yang7832@umd.edu · yifan.yang3@nih.gov 
+
+yang7832@umd.edu · yifan.yang3@nih.gov 
+
 <https://scholar.google.com/citations?user=0oRvdTUAAAAJ&hl=en> 
+
 [CV]({{site.url}}/assets/CV.pdf)
+
 </center>
 ---
