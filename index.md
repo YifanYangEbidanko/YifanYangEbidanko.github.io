@@ -1,11 +1,11 @@
 ## 👋 Hi, I’m **Yifan Yang**
 
 I’m a final-year Ph.D. candidate in Computer Science at **University of Maryland, College Park** and a pre-doctoral research fellow at the **National Library of Medicine (NIH)**.  
-My research lies at the intersection of **natural-language processing, clinical informatics, and AI safety**—with a mission to make large language models (LLMs) _trustworthy, private, and equitable_ for real-world healthcare.
 
 ---
 
 ### 🔬 Research Focus
+**Medical LLM Safety** · **Contextual-Augmented LLMs** · **Clinical Task Automation**
 
 | Theme | What I do | Representative Work |
 |-------|-----------|---------------------|
@@ -15,11 +15,10 @@ My research lies at the intersection of **natural-language processing, clinical 
 
 ---
 
-### 🏆 Selected Highlights
+### 🏆 Awards
 
 - **NIH Director’s Challenge** award for work on privacy-preserving medical LLMs  
-- **MedGuard** dataset 
-- Interned at **Genentech** (2022), improving drug-discovery text mining workflows  
+- **NIH Predoctoral Visiting Program Award** 
 
 ---
 
@@ -38,21 +37,14 @@ My research lies at the intersection of **natural-language processing, clinical 
 - **Pre-Doctoral Fellow**, National Library of Medicine (NIH) &nbsp;│ 2022–present  
 - **Ph.D. Candidate**, UMD Department of Computer Science &nbsp;│ 2020–present  
 - **Research Intern**, Genentech (gRED) &nbsp;│ Summer 2022  
-- **M.S.**, Computer Science, UMD &nbsp;│ 2020  
 
 ---
 
 ### 📬 Get in Touch
 
 <center>
-
-|  |  |
-|--|--|
 | 📧 yang7832@umd.edu · yifan.yang3@nih.gov | <https://github.com/username> |
 | 🏛️ College Park, MD &nbsp;·&nbsp; Bethesda, MD | <https://scholar.google.com/citations?user=0oRvdTUAAAAJ&hl=en> |
-
 </center>
 [CV]({{site.url}}/assets/CV.pdf)
 ---
-
-Theme: `minimal-mistakes`.*  
