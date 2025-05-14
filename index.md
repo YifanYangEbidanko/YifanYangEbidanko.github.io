@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <p align="center">
   <img src="{{ '/assets/head.jpg' | relative_url }}" alt="Yifan Yang" width="150" style="border-radius:50%">
 </p>
@@ -44,12 +48,12 @@ My research combines natural-language processing, clinical informatics, and AI s
 
 ### Contact
 
-<p align="center">
+<center>
 
 yang7832@umd.edu • yifan.yang3@nih.gov •  
 
-[Curriculum Vitae]({{site.url}}/assets/CV.pdf) •  
+[CV]({{site.url}}/assets/CV.pdf) •  
 
 [Google Scholar](https://scholar.google.com/citations?user=0oRvdTUAAAAJ&hl=en)
 
-</p>
+</center>
