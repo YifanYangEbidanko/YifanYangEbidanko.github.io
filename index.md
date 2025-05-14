@@ -1,5 +1,3 @@
-## 👋 Hi, I’m **Yifan Yang**
-
 <p align="center">
   <img src="{{ '/assets/head.jpg' | relative_url }}" alt="Yifan Yang" width="150" style="border-radius:50%">
 </p>
