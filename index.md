@@ -7,17 +7,17 @@ layout: default
 </p>
 
 I’m a final-year Ph.D. candidate in Computer Science at the **University of Maryland, College Park**, and a pre-doctoral research fellow at the **National Library of Medicine (NIH)**.  
-My research combines natural-language processing, clinical informatics, and AI safety to make large-language models **trustworthy, private, and equitable** in real-world healthcare.
+My research combines natural language processing, biomedical informatics, and AI safety to build clinical language models that are **accurate, safe, and robust** in real-world healthcare applications.
 
 ---
 
 ### Research Focus
 
-- **Medical LLM Safety** – Study bias, robustness, adversarial risk, and privacy leakage in clinical settings; design inference-time guards. 
+- **Domain-Augmented Language Models** – Enhance biomedical reasoning in LLMs using retrieval, structured knowledge (e.g., gene databases, ontologies), and tool integration (e.g., clinical calculators, genomic indexing).
 
-- **Contextual-Augmented LLMs** – Blend retrieval-augmented generation with targeted fine-tuning, enabling models to leverage domain knowledge for better performance on biomedical tasks.
+- **Clinical AI for Real-World Use** – Develop interactive systems for patient-trial matching, diagnostic imaging, and genomic analysis that are both explainable and efficient for clinical workflows.
 
-- **Clinical Task Automation** – Build end-to-end systems that save clinician time while maintaining transparency.  
+- **Safe and Trustworthy Medical LLMs** – Investigate hallucination, bias, adversarial attacks, and privacy risks in clinical LLMs; design decoding-time safety mechanisms and benchmark evaluation frameworks.
 
 ---
 
@@ -30,9 +30,10 @@ My research combines natural-language processing, clinical informatics, and AI s
 
 ### Recent Publications
 
-1. *MedGuard: A Safety Benchmark for Medical Large Language Models.* (Under review, 2025)  
-2. *Knowledge-Guided Contextual Gene Set Analysis with Large Language Models.* (Under review, 2025)  
-3. *TrialGPT: Zero-Shot Patient-to-Trial Matching with Transparent LLM Reasoning.* ACL 2024  
+1. *Protecting Patient Privacy Through Controlled Text Generation* (AMIA, 2025)
+2. *MedGuard: A Safety Benchmark for Medical Large Language Models.* (Under review, 2025)  
+3. *Knowledge-Guided Contextual Gene Set Analysis with Large Language Models.* (Under review, 2025)  
+4. *Matching patients to clinical trials with large language models.* (Nature Comm. 2024)  
 
 *A complete list is available on my* [Google Scholar](https://scholar.google.com/citations?user=0oRvdTUAAAAJ&hl=en).
 
